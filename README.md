@@ -5,7 +5,7 @@
 The primary goals of this coding challenge are:
 
 1. **Backend Setup:** Create a backend service to fetch data from an external data source.
-2. **Data Manipulation:** Implement basic data manipulation on the fetched data.
+2. **Data Manipulation:** Perform basic data manipulation on the fetched data.
 3. **Client-Side Presentation:** Present the resulting data client side.
 
 ## Detailed instructions
