@@ -16,27 +16,27 @@ The primary goals of this coding challenge are:
 ### Tech Stack
 
 - **Backend:** Node.js with Express
-- **Frontend:** React or Next.js with React
+- **Frontend:** React or Next.js with React (preferred options)
 - **Full-Stack Option:** Next.js
 
 ### Tasks
 
 1. **Project Initialization:**
    - Set up a Node.js project with Express.
-   - Configure necessary dependencies and development tools (such as Nodemon)
+   - Configure necessary dependencies and development tools.
 
-2. **Data retrieval endpoint:**
+2. **External Data Fetch**
    - Create a root endpoint (GET /) in your Express server.
    - This endpoint should fetch data from <https://jsonplaceholder.typicode.com/users/1> and return the response.
 
-3. **User Posts endpoint:**
+3. **Dynamic Data Aggregation Endpoint:**
    - Develop an endpoint (GET /users/:id/posts) that accepts a user ID as a URL parameter, fetches the user data and their posts from the JSONPlaceholder API (<https://jsonplaceholder.typicode.com/users/:id> and <https://jsonplaceholder.typicode.com/posts?userId=:id>), and returns them as a single JSON object.
 
-4. **Data Transformation:**
+4. **Data Manipulation:**
    - Add a boolean field `hasEvenId` to each post indicating whether the post's ID is an even number.
 
 5. **Frontend Implementation:**
-   - Create a frontend interface using React, Next.js with React, or basic vanilla JavaScript.
+   - Create a frontend using one of the specified options.
    - Fetch and display the manipulated data from the backend.
    - **Bonus:** Apply basic styling of your choice to enhance the presentation of data.
 
