@@ -23,7 +23,7 @@ The primary goals of this coding challenge are:
 
 1. **Project Initialization:**
    - Set up a Node.js project with Express.
-   - Configure necessary dependencies and development tools (Nodemon or npm script using `node --watch` for automatic server restarts recommended).
+   - Configure necessary dependencies and development tools (Nodemon or npm script using `node --watch` for automatic server restarts is recommended).
 
 2. **External Data Fetch**
    - Create a root endpoint (GET /) in your Express server.
