@@ -27,7 +27,7 @@ The primary goals of this coding challenge are:
 
 2. **External Data Fetch**
    - Create a root endpoint (GET /) in your Express server.
-   - This endpoint should fetch data from <https://jsonplaceholder.typicode.com/users/1> and return the response.
+   - This endpoint should fetch data from <https://jsonplaceholder.typicode.com/users/1> and return the response (unmodified).
 
 3. **Dynamic Data Aggregation Endpoint:**
    - Develop an endpoint (GET /users/:id/posts) that accepts a user ID as a URL parameter, fetches the user data and their posts from the JSONPlaceholder API (<https://jsonplaceholder.typicode.com/users/:id> and <https://jsonplaceholder.typicode.com/posts?userId=:id>), and returns them as a single JSON object.
