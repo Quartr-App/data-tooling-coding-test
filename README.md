@@ -8,12 +8,15 @@ The primary goals of this coding challenge are:
 2. **Data Manipulation:** Perform basic data manipulation on the fetched data.
 3. **Frontend Implementation:** Present the resulting data client side.
 
+> [!TIP]  
+> During the coding challenge, you are encouraged to articulate your thought process out loud. This helps us better understand your approach, decision-making, and problem-solving skills.
+
 ## Instructions
 
 ### Tech Stack
 
 - **Backend:** Node.js with Express
-- **Frontend:** React, Next.js with React, or Vanilla JS / TS
+- **Frontend:** React or Next.js with React
 - **Full-Stack Option:** Next.js
 
 ### Tasks
