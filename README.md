@@ -1,6 +1,6 @@
 # Coding Challenge | Data Tooling | Full Stack Developer (~60 min)
 
-## Obectives
+## Objectives
 
 The primary goals of this coding challenge are:
 
