@@ -10,6 +10,7 @@ The primary goals of this coding challenge are:
 
 > [!TIP]  
 > During the coding challenge, you are encouraged to articulate your thought process out loud. This helps us better understand your approach, decision-making, and problem-solving skills.
+>
 > You are allowed to use any tools that you deem necessary to solve the coding challenge.
 
 ## Instructions
