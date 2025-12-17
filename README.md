@@ -40,7 +40,9 @@ The primary goals of this coding challenge are:
 5. **Frontend Implementation:**
    - Create a frontend using one of the specified options.
    - Fetch and display the manipulated data from the backend.
-   - **Bonus:** Apply basic styling of your choice to enhance the presentation of data.
+
+6. **Bonus - Styling**
+   - Apply basic styling of your choice to enhance the presentation of data.
 
 ## Review (15-20 min)
 
