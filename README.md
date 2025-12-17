@@ -17,8 +17,11 @@ The primary goals of this coding challenge are:
 
 ### Tech Stack
 
+Option 1:
 - **Backend:** Node.js with Express
-- **Frontend:** React or Next.js with React (preferred options)
+- **Frontend:** React (or Next.js with React)
+
+Option 2:
 - **Full-Stack Option:** Next.js
 
 ### Tasks
