@@ -24,7 +24,7 @@ The primary goals of this coding challenge are:
 
 1. **Project Initialization:**
    - Set up your backend service
-   - Configure necessary dependencies and development tools (npm script using `node --watch` for automatic server restarts is recommended).
+   - Configure necessary dependencies and development tools.
 
 2. **External Data Fetch**
    - Create a root endpoint (GET /) in your Express server.
