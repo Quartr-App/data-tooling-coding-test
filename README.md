@@ -36,11 +36,14 @@ The primary goals of this coding challenge are:
 4. **Data Manipulation:**
    - Add a boolean field `hasEvenId` to each post indicating whether the post's ID is an even number.
 
-5. **Frontend Implementation:**
-   - Create a frontend using one of the specified options.
-   - Fetch and display the manipulated data from the backend.
+5. **Frontend Initialization:**
+   - Create a frontend using the specified option.
+   - Configure necessary dependecies and packages.
 
-6. **Bonus - Styling**
+6. **Frontend Implementation:**
+   - Fetch and display the manipulated data dynamically from the backend
+
+7. **Bonus - Styling**
    - Apply basic styling of your choice to enhance the presentation of data.
 
 ## Review (15-20 min)
