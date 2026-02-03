@@ -17,7 +17,7 @@ The primary goals of this coding challenge are:
 
 ### Tech Stack
 
-- **Backend:** Node.js with Elysia JS https://elysiajs.com/
+- **Backend:** Node.js with [Elysia JS](https://elysiajs.com/)
 - **Frontend:** React (or Next.js with React)
 
 ### Tasks
