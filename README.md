@@ -23,7 +23,7 @@ The primary goals of this coding challenge are:
 ### Tasks
 
 1. **Project Initialization:**
-   - Set up your backend service
+   - Set up your backend service.
    - Configure necessary dependencies and development tools.
 
 2. **External Data Fetch**
@@ -41,7 +41,7 @@ The primary goals of this coding challenge are:
    - Configure necessary dependecies and packages.
 
 6. **Frontend Implementation:**
-   - Fetch and display the manipulated data dynamically from the backend
+   - Fetch and display the manipulated data dynamically from the backend.
 
 7. **Bonus - Styling**
    - Apply basic styling of your choice to enhance the presentation of data.
