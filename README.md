@@ -27,7 +27,7 @@ The primary goals of this coding challenge are:
    - Configure necessary dependencies and development tools.
 
 2. **External Data Fetch**
-   - Create a root endpoint (GET /) in your Express server.
+   - Create a root endpoint (GET /) in your server.
    - This endpoint should fetch data from <https://jsonplaceholder.typicode.com/users/1> and return the response (unmodified).
 
 3. **Dynamic Data Aggregation Endpoint:**
