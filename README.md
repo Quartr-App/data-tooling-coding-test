@@ -32,6 +32,7 @@ The primary goals of this coding challenge are:
 
 3. **Dynamic Data Aggregation Endpoint:**
    - Develop an endpoint (GET /users/:id/posts) that accepts a user ID as a URL parameter, fetches the user data and their posts from the JSONPlaceholder API (<https://jsonplaceholder.typicode.com/users/:id> and <https://jsonplaceholder.typicode.com/posts?userId=:id>), and returns them as a single JSON object.
+   - **Note**: the users goes from id 1 through 10
 
 4. **Data Manipulation:**
    - Add a boolean field `hasEvenId` to each post indicating whether the post's ID is an even number.
