@@ -18,7 +18,7 @@ The primary goals of this coding challenge are:
 ### Tech Stack
 
 - **Backend:** [Elysia JS](https://elysiajs.com/)
-- **Frontend:** React (or Next.js with React)
+- **Frontend:** React (any setup, e.g. Vite)
 
 ### Tasks
 
@@ -32,14 +32,14 @@ The primary goals of this coding challenge are:
 
 3. **Dynamic Data Aggregation Endpoint:**
    - Develop an endpoint (GET /users/:id/posts) that accepts a user ID as a URL parameter, fetches the user data and their posts from the JSONPlaceholder API (<https://jsonplaceholder.typicode.com/users/:id> and <https://jsonplaceholder.typicode.com/posts?userId=:id>), and returns them as a single JSON object.
-   - **Note**: the users goes from id 1 through 10
+   - **Note**: user IDs go from 1 through 10
 
 4. **Data Manipulation:**
    - Add a boolean field `hasEvenId` to each post indicating whether the post's ID is an even number.
 
 5. **Frontend Initialization:**
    - Create a frontend using the specified option.
-   - Configure necessary dependecies and packages.
+   - Configure necessary dependencies and packages.
 
 6. **Frontend Implementation:**
    - Fetch and display the manipulated data dynamically from the backend.
