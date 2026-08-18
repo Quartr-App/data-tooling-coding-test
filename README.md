@@ -23,7 +23,7 @@ Backend ([Elysia](https://elysiajs.com/), runs on <http://localhost:3000>):
 cd backend && bun install && bun dev
 ```
 
-Frontend (React + [Vite](https://vite.dev/), runs on <http://localhost:5173>):
+Frontend ([React](https://react.dev/learn) + [Vite](https://vite.dev/), runs on <http://localhost:5173>):
 
 ```bash
 cd frontend && bun install && bun dev
