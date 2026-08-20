@@ -1,4 +1,4 @@
-# Coding Challenge | Data Tooling | Full Stack Developer (~60 min)
+# Coding Challenge | Data Tooling | Full Stack Developer (~55-60 min)
 
 ## Objectives
 
@@ -8,6 +8,8 @@ The primary goals of this coding challenge are:
 2. **Data Manipulation:** Perform basic data manipulation on the fetched data.
 3. **Frontend:** Present the resulting data client side, dynamically.
 
+*You do not need to complete everything to pass, we are trying to understand how you think, reason and communicate!*
+
 > [!TIP]
 > During the coding challenge, you are encouraged to articulate your thought process out loud. This helps us better understand your approach, decision-making, and problem-solving skills.
 >
@@ -15,7 +17,7 @@ The primary goals of this coding challenge are:
 
 ## Getting Started
 
-This repository contains a scaffolded backend and frontend so you can focus on the tasks. The only prerequisite is [Bun](https://bun.sh/).
+This repository contains a scaffolded backend, frontend and shared types package so you can focus on the tasks. The only prerequisite is [Bun](https://bun.sh/).
 
 Backend ([Elysia](https://elysiajs.com/), runs on <http://localhost:3000>):
 
@@ -28,6 +30,8 @@ Frontend ([React](https://react.dev/learn) + [Vite](https://vite.dev/), runs on 
 ```bash
 cd frontend && bun install && bun dev
 ```
+
+Shared types (`types/`): a few TypeScript types both apps can use, linked into each of them as `@challenge/types`.
 
 ## Tasks
 
@@ -50,8 +54,8 @@ cd frontend && bun install && bun dev
 ### Frontend
 
 5. **Frontend Implementation**
-   - Fetch the data from your backend and display the user and their posts, including the fields you added.
-   - Add a control to switch between users 1 through 10; the view should update with the selected user's data.
+   - Fetch the user with posts from your backend and display the user and their posts, including the fields you added.
+   - Add a control or input to switch between users 1 through 10; the view should update with the selected user's data.
 
 6. **Search & Sort**
    - Add a text input that filters the displayed posts by title.
