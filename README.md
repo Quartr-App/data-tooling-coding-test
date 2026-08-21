@@ -54,7 +54,8 @@ Shared types (`types/`): a few TypeScript types both apps can use, linked into e
 ### Frontend
 
 5. **Frontend Implementation**
-   - Fetch the user with posts from your backend and display the user and their posts, including the fields you added.
+   - Fetch the user with posts from your backend and display the user and their posts.
+   - You do not need to display all the fields, a couple including the fields you added is enough.
    - Add a control or input to switch between users 1 through 10; the view should update with the selected user's data.
 
 6. **Search & Sort**
