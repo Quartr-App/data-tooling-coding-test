@@ -11,6 +11,8 @@ The primary goals of this coding challenge are:
 *You do not need to complete everything to pass, we are trying to understand how you think, reason and communicate!*
 
 > [!TIP]
+> Read through the whole README before starting, take a minute to understand before you jump ahead!
+> 
 > During the coding challenge, you are encouraged to articulate your thought process out loud. This helps us better understand your approach, decision-making, and problem-solving skills.
 >
 > You are allowed to use any tools that you deem necessary to solve the coding challenge.
@@ -50,13 +52,14 @@ Shared types (`types/`): a few TypeScript types both apps can use, linked into e
 
 4. **Comment Counts**
    - Add a numeric field `commentCount` to each post with the number of comments on that post. Comments are available from <https://jsonplaceholder.typicode.com/comments?postId=:id>.
+   - increment `commentCount` with the post id
 
 ### Frontend
 
 5. **Frontend Implementation**
    - Fetch the user with posts from your backend and display the user and their posts.
    - You do not need to display all the fields, a couple including the fields you added is enough.
-   - Add a control or input to switch between users 1 through 10; the view should update with the selected user's data.
+   - Add an input to switch between different users; the view should update with the selected user's data.
 
 6. **Search & Sort**
    - Add a text input that filters the displayed posts by title.
