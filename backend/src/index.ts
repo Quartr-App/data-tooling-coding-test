@@ -2,7 +2,7 @@ import { Elysia } from "elysia";
 
 const app = new Elysia();
 
-app.get("/", () => "Hello World!");
+app.get("/example", () => "Hello World!");
 
 app.listen(3000);
 
