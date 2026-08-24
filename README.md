@@ -15,7 +15,7 @@ The primary goals of this coding challenge are:
 > 
 > During the coding challenge, you are encouraged to articulate your thought process out loud. This helps us better understand your approach, decision-making, and problem-solving skills.
 >
-> You are allowed to use any tools that you deem necessary to solve the coding challenge.
+> You are allowed to use any tools that you deem necessary to solve the coding challenge (including AI), just make sure to show us that you understand what you are doing!
 
 ## Getting Started
 
