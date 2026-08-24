@@ -27,6 +27,8 @@ Backend ([Elysia](https://elysiajs.com/), runs on <http://localhost:3000>):
 cd backend && bun install && bun dev
 ```
 
+> Never heard of Elysia? Don't worry! It is very similar to express and you can use the [Elysia Cheat Sheet](https://elysiajs.com/integrations/cheat-sheet)
+
 Frontend ([React](https://react.dev/learn) + [Vite](https://vite.dev/), runs on <http://localhost:5173>):
 
 ```bash
